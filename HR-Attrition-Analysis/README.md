@@ -1,10 +1,10 @@
-📌 HR Attrition Analysis
+ **HR Attrition Analysis**
 
-📖 Problem Statement
+ Problem Statement
 
 Analyze employee attrition and identify key factors driving employee turnover within the organizatio
 
-🛠️ Tools Used
+ Tools Used
 	•	SQL
 	•	Power BI
 
